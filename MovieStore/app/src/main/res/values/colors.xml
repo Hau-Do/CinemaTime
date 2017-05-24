@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#f2543a</color>
+    <color name="colorPrimaryDark">#800f02</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorNavigationDrawer">#d4717153</color>
+    <color name="coloreditbackground">#3F51B5</color>
+    <color name="colortext">#303F9F</color>
+    <color name="background">#d4717153</color>
+    <color name="cardbackground">#f8ffffff</color>
+    <color name="abc">#717153</color>
+</resources>

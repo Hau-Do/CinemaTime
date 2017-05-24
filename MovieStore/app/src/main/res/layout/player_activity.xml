@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?><!-- Copyright (C) 2016 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/root"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:focusable="true"
+    android:keepScreenOn="true"
+    android:orientation="vertical">
+
+    <FrameLayout
+        android:id="@+id/frame_video"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+
+        <com.google.android.exoplayer2.ui.SimpleExoPlayerView
+            android:id="@+id/player_view"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:focusable="true"
+            app:resize_mode="fixed_width" >
+            <FrameLayout
+                android:id="@+id/suggestionContainer"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"/>
+
+        </com.google.android.exoplayer2.ui.SimpleExoPlayerView>
+
+        <LinearLayout
+            android:id="@+id/controls_root"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#1e000000"
+            android:gravity="end"
+            android:orientation="horizontal"
+            android:visibility="gone">
+
+            <Button
+                android:id="@+id/retry_button"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/retry"
+                android:visibility="gone" />
+            <ImageButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/menu_2"
+                android:layout_gravity="center_vertical"
+                android:id="@+id/more_button"/>
+        </LinearLayout>
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:id="@+id/controlLayout"
+            android:visibility="gone"
+            android:layout_height="match_parent">
+            <ImageButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:background="#00ffffff"
+                android:id="@+id/playButton"
+                />
+            <ImageButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/prev"
+                android:layout_toLeftOf="@id/playButton"
+                android:layout_marginRight="20dp"
+                android:layout_centerInParent="true"
+                android:background="@drawable/ic_skip_previous"/>
+
+            <ImageButton
+                android:layout_width="wrap_content"
+                android:id="@+id/next"
+                android:layout_toRightOf="@id/playButton"
+                android:layout_marginLeft="20dp"
+                android:layout_centerInParent="true"
+                android:layout_height="wrap_content"
+                android:background="@drawable/ic_skip_next"/>
+        </RelativeLayout>
+        <ImageButton
+            android:id="@+id/refresh"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            style="@style/ExoMediaButton.Refresh"
+            android:layout_gravity="center"/>
+    </FrameLayout>
+    <FrameLayout
+        android:id="@+id/frame_content"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <android.support.v7.widget.RecyclerView
+            android:id="@+id/rcl_list_video"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+    </FrameLayout>
+
+
+</LinearLayout>

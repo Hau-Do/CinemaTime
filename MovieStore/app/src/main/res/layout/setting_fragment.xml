@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/linearSetting"
+    android:layout_height="match_parent"
+    android:background="@color/background"
+    android:padding="2dp"
+    android:layout_width="match_parent">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:padding="2dp">
+
+            <!-- Filter -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="5"
+                android:paddingBottom="8dp"
+                android:orientation="vertical">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:padding="8dp"
+                    >
+
+                    <TextView
+                        android:id="@+id/txtFilter"
+                        android:layout_width="match_parent"
+                        android:layout_height="40dp"
+                        android:background="@color/cardbackground"
+                        android:gravity="center_vertical"
+                        android:tag="FILTER"
+                        android:text="@string/filter"
+                        android:textStyle="bold"
+                        android:textColor="@color/colorAccent"
+                        android:padding="4dp"/>
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/lnGone_Filter"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical"
+                    android:visibility="visible"
+                    android:padding="8dp"
+                    >
+
+                    <RelativeLayout
+                        android:id="@+id/relativePopularMovies"
+                        android:layout_width="match_parent"
+                        android:layout_height="0dp"
+                        android:layout_weight="1.5"
+                        android:padding="4dp"
+                        android:tag="RE_POP">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_alignParentLeft="true"
+                            android:textColor="#20201f"
+                            android:text="@string/popular_movies" />
+
+                        <ImageView
+                            android:id="@+id/imvCheckedPopular"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_alignParentRight="true"
+                            android:layout_marginRight="16dp"
+                            android:background="@drawable/check_mark"
+                             />
+                    </RelativeLayout>
+
+                    <RelativeLayout
+                        android:id="@+id/relativeTopMovies"
+                        android:layout_width="match_parent"
+                        android:layout_height="0dp"
+                        android:layout_marginTop="2dp"
+                        android:layout_weight="1.5"
+                        android:padding="4dp"
+                        android:tag="RE_TOP">
+
+                        <TextView
+                            android:textColor="#20201f"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_alignParentLeft="true"
+                            android:text="@string/top_rated_movies" />
+
+                        <ImageView
+                            android:id="@+id/imvCheckedTop"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_alignParentRight="true"
+                            android:layout_marginRight="16dp"
+                            android:background="@drawable/check_mark"
+                            android:visibility="invisible" />
+                    </RelativeLayout>
+
+                    <RelativeLayout
+                        android:id="@+id/relativeUpComingMovies"
+                        android:layout_width="match_parent"
+                        android:layout_height="0dp"
+                        android:layout_marginTop="2dp"
+                        android:layout_weight="1.5"
+                        android:padding="4dp"
+                        android:tag="RE_UP">
+
+                        <TextView
+                            android:textColor="#20201f"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_alignParentLeft="true"
+                            android:text="@string/upcoming_movies" />
+
+                        <ImageView
+                            android:id="@+id/imvCheckedUpcoming"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_alignParentRight="true"
+                            android:layout_marginRight="16dp"
+                            android:background="@drawable/check_mark"
+                            android:visibility="invisible" />
+                    </RelativeLayout>
+
+                    <RelativeLayout
+                        android:id="@+id/relativePlayingMovies"
+                        android:layout_width="match_parent"
+                        android:layout_height="0dp"
+                        android:layout_marginTop="2dp"
+                        android:layout_weight="1.5"
+                        android:padding="4dp"
+                        android:tag="RE_PLAYING">
+
+                        <TextView
+                            android:textColor="#20201f"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_alignParentLeft="true"
+                            android:text="@string/nowplaying_movies" />
+
+                        <ImageView
+                            android:id="@+id/imvCheckedPlaying"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_alignParentRight="true"
+                            android:layout_marginRight="16dp"
+                            android:background="@drawable/check_mark"
+                            android:visibility="invisible" />
+                    </RelativeLayout>
+
+                    <!--area of Slider and relevant others-->
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="0dp"
+                        android:layout_weight="4"
+                        android:background="@color/cardbackground"
+                        android:gravity="center"
+                        android:orientation="vertical"
+                        android:padding="4dp">
+
+                        <!--Rate-->
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:orientation="horizontal"
+                            >
+
+                            <TextView
+                                android:textColor="#20201f"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="@string/movie_with" />
+
+                            <TextView
+                                android:id="@+id/txtRate"
+                                android:gravity="right"
+                                android:paddingRight="2dp"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:hint=" 6.5" />
+
+                        </LinearLayout>
+
+                        <!--Custom SeekBar-->
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:orientation="horizontal">
+
+                            <TextView
+                                android:layout_width="0dp"
+                                android:layout_height="wrap_content"
+                                android:layout_weight="1"
+                                android:text="0" />
+
+                            <SeekBar
+                                android:id="@+id/seekbarRate"
+                                android:layout_width="0dp"
+                                android:layout_height="wrap_content"
+                                android:layout_weight="8"
+                                android:max="10"
+                                android:progress="6" />
+
+                            <TextView
+                                android:gravity="right"
+                                android:layout_width="0dp"
+                                android:layout_height="wrap_content"
+                                android:layout_weight="1"
+                                android:text="10" />
+
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:orientation="horizontal">
+
+                            <TextView
+                                android:textColor="#20201f"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="@string/from_release" />
+
+                            <TextView
+                                android:gravity="right"
+                                android:id="@+id/txtYear"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:hint=" 2006"/>
+
+                        </LinearLayout>
+
+
+                    </LinearLayout>
+
+                </LinearLayout>
+
+            </LinearLayout>
+
+            <!-- Sort By -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="2"
+                android:paddingBottom="5dp"
+                android:orientation="vertical"
+                android:padding="8dp">
+
+                <TextView
+                    android:id="@+id/txtSortBy"
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:background="@color/cardbackground"
+                    android:gravity="center_vertical"
+                    android:tag="SORT"
+                    android:textStyle="bold"
+                    android:textColor="@color/colorAccent"
+                    android:padding="4dp"
+                    android:text="@string/sortby" />
+
+                <LinearLayout
+                    android:id="@+id/lnGone_SortBy"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:gravity="center"
+                    android:orientation="vertical"
+                    android:visibility="visible">
+
+                    <RelativeLayout
+                        android:id="@+id/relativeReleaseDate"
+                        android:layout_width="match_parent"
+                        android:layout_height="0dp"
+                        android:layout_weight="1"
+                        android:gravity="center"
+                        android:padding="4dp"
+                        android:tag="RE_DATE">
+
+                        <TextView
+                            android:textColor="#20201f"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_alignParentLeft="true"
+                            android:text="@string/release_date" />
+
+                        <ImageView
+                            android:id="@+id/imvCheckedReleaseDate"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_alignParentRight="true"
+                            android:layout_marginRight="16dp"
+                            android:background="@drawable/check_mark"
+                            android:visibility="visible" />
+                    </RelativeLayout>
+
+                    <RelativeLayout
+                        android:id="@+id/relativeRating"
+                        android:layout_width="match_parent"
+                        android:layout_height="0dp"
+                        android:layout_marginTop="2dp"
+                        android:layout_weight="1"
+                        android:gravity="center"
+                        android:padding="4dp"
+                        android:tag="RE_RATING">
+
+                        <TextView
+                            android:textColor="#20201f"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_alignParentLeft="true"
+                            android:text="@string/rating" />
+
+                        <ImageView
+                            android:id="@+id/imvCheckedRating"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_alignParentRight="true"
+                            android:layout_marginRight="16dp"
+                            android:background="@drawable/check_mark"
+                            android:visibility="invisible" />
+                    </RelativeLayout>
+
+                </LinearLayout>
+
+
+            </LinearLayout>
+
+            <!-- Number Of Loading -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="2"
+                android:padding="8dp"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/txtNumberOfLoading"
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:background="@color/cardbackground"
+                    android:gravity="center_vertical"
+                    android:tag="NUMBER"
+                    android:textStyle="bold"
+                    android:textColor="@color/colorAccent"
+                    android:padding="4dp"
+                    android:text="@string/number_of_loading" />
+
+                <RelativeLayout
+                    android:id="@+id/relativeNumberOfLoading"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginTop="2dp"
+                    android:gravity="center"
+                    android:padding="4dp"
+                    android:tag="NUMBER_OF_PAGE"
+                    android:visibility="visible">
+
+                    <TextView
+                        android:id="@+id/txtNumber"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentRight="true"
+                        android:hint="1"
+                        android:inputType="number"
+                        android:padding="1dp" />
+
+                    <TextView
+                        android:textColor="#20201f"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/number_of_page"
+                        android:layout_alignParentTop="true"
+                        android:layout_alignParentLeft="true"
+                        android:layout_alignParentStart="true"
+                        android:id="@+id/textView2" />
+
+                </RelativeLayout>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:gravity="center_horizontal"
+                android:orientation="horizontal">
+            </LinearLayout>
+
+        </LinearLayout>
+
+
+    </ScrollView>
+
+</RelativeLayout>
+
+
+
+

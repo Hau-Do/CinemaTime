@@ -1,0 +1,43 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/background"
+    tools:context="group6.com.cimenatime.Fragment.MovieListFragment">
+
+    <android.support.v4.widget.SwipeRefreshLayout
+        android:id="@+id/Swipe_refresh"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <android.support.v7.widget.RecyclerView
+
+            android:id="@+id/Fragment_MovieList_RecyclerView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:scrollbars="vertical"
+            />
+
+
+
+        <!-- TODO: Update blank fragment layout -->
+
+    </android.support.v4.widget.SwipeRefreshLayout>
+    <android.support.v4.widget.SwipeRefreshLayout
+        android:id="@+id/Swipe_Gridrefresh"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+    <android.support.v7.widget.RecyclerView
+
+        android:id="@+id/Fragment_MovieList_RecyclerGridView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scrollbars="vertical" />
+    <!--<LinearLayout-->
+        <!--android:orientation="vertical"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="match_parent"-->
+        <!--android:id="@+id/Handle_Container"/>-->
+    </android.support.v4.widget.SwipeRefreshLayout>
+</LinearLayout>

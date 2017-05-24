@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#ffffff"
+    android:padding="5dp"
+    android:id="@+id/desLayout">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:typeface="serif"
+        android:textStyle="italic"
+        android:layout_marginLeft="3dp"
+        android:textColor="@color/colorAccent"
+        android:id="@+id/player_item_title"
+        android:text="Movie Tittle"
+        android:textSize="18sp"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_weight="1">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/releaseDay_item"
+                android:text="456"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="end"
+            android:layout_weight="1"
+            android:orientation="vertical">
+            <TextView
+                android:id="@+id/rating_item"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="123"/>
+        </LinearLayout>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/des_title"
+        android:visibility="gone"
+        android:orientation="vertical">
+        <TextView
+            android:layout_width="wrap_content"
+            android:id="@+id/description"
+            android:layout_height="wrap_content"/>
+    </LinearLayout>
+
+</LinearLayout>

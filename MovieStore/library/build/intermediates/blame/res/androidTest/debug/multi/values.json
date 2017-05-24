@@ -1,0 +1,1205 @@
+[
+    {
+        "outputFile": "F:\\Java_Android\\Workshop_Android\\MyApps\\MovieStore\\library\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "F:\\Java_Android\\Workshop_Android\\MyApps\\MovieStore\\library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 57,
+                        "endOffset": 108
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endLine": 7,
+                    "endColumn": 9,
+                    "endOffset": 278
+                },
+                "from": {
+                    "file": "F:\\Java_Android\\Workshop_Android\\MyApps\\MovieStore\\library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 113,
+                        "endLine": 7,
+                        "endColumn": 9,
+                        "endOffset": 278
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 283,
+                    "endColumn": 52,
+                    "endOffset": 331
+                },
+                "from": {
+                    "file": "F:\\Java_Android\\Workshop_Android\\MyApps\\MovieStore\\library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 283,
+                        "endColumn": 52,
+                        "endOffset": 331
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 336,
+                    "endColumn": 48,
+                    "endOffset": 380
+                },
+                "from": {
+                    "file": "F:\\Java_Android\\Workshop_Android\\MyApps\\MovieStore\\library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 336,
+                        "endColumn": 48,
+                        "endOffset": 380
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 935,
+                    "endColumn": 77,
+                    "endOffset": 1008
+                },
+                "from": {
+                    "file": "F:\\Java_Android\\Workshop_Android\\MyApps\\MovieStore\\library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 935,
+                        "endColumn": 77,
+                        "endOffset": 1008
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1013,
+                    "endColumn": 75,
+                    "endOffset": 1084
+                },
+                "from": {
+                    "file": "F:\\Java_Android\\Workshop_Android\\MyApps\\MovieStore\\library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1013,
+                        "endColumn": 75,
+                        "endOffset": 1084
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1089,
+                    "endColumn": 68,
+                    "endOffset": 1153
+                },
+                "from": {
+                    "file": "F:\\Java_Android\\Workshop_Android\\MyApps\\MovieStore\\library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1089,
+                        "endColumn": 68,
+                        "endOffset": 1153
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1158,
+                    "endColumn": 64,
+                    "endOffset": 1218
+                },
+                "from": {
+                    "file": "F:\\Java_Android\\Workshop_Android\\MyApps\\MovieStore\\library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1158,
+                        "endColumn": 64,
+                        "endOffset": 1218
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1223,
+                    "endColumn": 62,
+                    "endOffset": 1281
+                },
+                "from": {
+                    "file": "F:\\Java_Android\\Workshop_Android\\MyApps\\MovieStore\\library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1223,
+                        "endColumn": 62,
+                        "endOffset": 1281
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1286,
+                    "endColumn": 76,
+                    "endOffset": 1358
+                },
+                "from": {
+                    "file": "F:\\Java_Android\\Workshop_Android\\MyApps\\MovieStore\\library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1286,
+                        "endColumn": 76,
+                        "endOffset": 1358
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1363,
+                    "endColumn": 68,
+                    "endOffset": 1427
+                },
+                "from": {
+                    "file": "F:\\Java_Android\\Workshop_Android\\MyApps\\MovieStore\\library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1363,
+                        "endColumn": 68,
+                        "endOffset": 1427
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1432,
+                    "endColumn": 66,
+                    "endOffset": 1494
+                },
+                "from": {
+                    "file": "F:\\Java_Android\\Workshop_Android\\MyApps\\MovieStore\\library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1432,
+                        "endColumn": 66,
+                        "endOffset": 1494
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1499,
+                    "endColumn": 62,
+                    "endOffset": 1557
+                },
+                "from": {
+                    "file": "F:\\Java_Android\\Workshop_Android\\MyApps\\MovieStore\\library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1499,
+                        "endColumn": 62,
+                        "endOffset": 1557
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1562,
+                    "endLine": 26,
+                    "endColumn": 10,
+                    "endOffset": 1754
+                },
+                "from": {
+                    "file": "F:\\Java_Android\\Workshop_Android\\MyApps\\MovieStore\\library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1562,
+                        "endLine": 26,
+                        "endColumn": 10,
+                        "endOffset": 1754
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1759,
+                    "endLine": 30,
+                    "endColumn": 10,
+                    "endOffset": 1978
+                },
+                "from": {
+                    "file": "F:\\Java_Android\\Workshop_Android\\MyApps\\MovieStore\\library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1759,
+                        "endLine": 30,
+                        "endColumn": 10,
+                        "endOffset": 1978
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 1983,
+                    "endLine": 34,
+                    "endColumn": 10,
+                    "endOffset": 2189
+                },
+                "from": {
+                    "file": "F:\\Java_Android\\Workshop_Android\\MyApps\\MovieStore\\library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 1983,
+                        "endLine": 34,
+                        "endColumn": 10,
+                        "endOffset": 2189
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 2194,
+                    "endLine": 38,
+                    "endColumn": 10,
+                    "endOffset": 2392
+                },
+                "from": {
+                    "file": "F:\\Java_Android\\Workshop_Android\\MyApps\\MovieStore\\library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 2194,
+                        "endLine": 38,
+                        "endColumn": 10,
+                        "endOffset": 2392
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 2397,
+                    "endLine": 42,
+                    "endColumn": 10,
+                    "endOffset": 2607
+                },
+                "from": {
+                    "file": "F:\\Java_Android\\Workshop_Android\\MyApps\\MovieStore\\library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 2397,
+                        "endLine": 42,
+                        "endColumn": 10,
+                        "endOffset": 2607
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 2612,
+                    "endLine": 47,
+                    "endColumn": 10,
+                    "endOffset": 2861
+                },
+                "from": {
+                    "file": "F:\\Java_Android\\Workshop_Android\\MyApps\\MovieStore\\library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 4,
+                        "startOffset": 2612,
+                        "endLine": 47,
+                        "endColumn": 10,
+                        "endOffset": 2861
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 2866,
+                    "endLine": 51,
+                    "endColumn": 10,
+                    "endOffset": 3070
+                },
+                "from": {
+                    "file": "F:\\Java_Android\\Workshop_Android\\MyApps\\MovieStore\\library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 48,
+                        "startColumn": 4,
+                        "startOffset": 2866,
+                        "endLine": 51,
+                        "endColumn": 10,
+                        "endOffset": 3070
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "F:\\Java_Android\\Workshop_Android\\MovieStore\\library\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "F:\\Java_Android\\Workshop_Android\\MovieStore\\library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 57,
+                        "endOffset": 108
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endLine": 7,
+                    "endColumn": 9,
+                    "endOffset": 278
+                },
+                "from": {
+                    "file": "F:\\Java_Android\\Workshop_Android\\MovieStore\\library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 113,
+                        "endLine": 7,
+                        "endColumn": 9,
+                        "endOffset": 278
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 283,
+                    "endColumn": 52,
+                    "endOffset": 331
+                },
+                "from": {
+                    "file": "F:\\Java_Android\\Workshop_Android\\MovieStore\\library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 283,
+                        "endColumn": 52,
+                        "endOffset": 331
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 336,
+                    "endColumn": 48,
+                    "endOffset": 380
+                },
+                "from": {
+                    "file": "F:\\Java_Android\\Workshop_Android\\MovieStore\\library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 336,
+                        "endColumn": 48,
+                        "endOffset": 380
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 935,
+                    "endColumn": 77,
+                    "endOffset": 1008
+                },
+                "from": {
+                    "file": "F:\\Java_Android\\Workshop_Android\\MovieStore\\library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 935,
+                        "endColumn": 77,
+                        "endOffset": 1008
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1013,
+                    "endColumn": 75,
+                    "endOffset": 1084
+                },
+                "from": {
+                    "file": "F:\\Java_Android\\Workshop_Android\\MovieStore\\library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1013,
+                        "endColumn": 75,
+                        "endOffset": 1084
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1089,
+                    "endColumn": 68,
+                    "endOffset": 1153
+                },
+                "from": {
+                    "file": "F:\\Java_Android\\Workshop_Android\\MovieStore\\library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1089,
+                        "endColumn": 68,
+                        "endOffset": 1153
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1158,
+                    "endColumn": 64,
+                    "endOffset": 1218
+                },
+                "from": {
+                    "file": "F:\\Java_Android\\Workshop_Android\\MovieStore\\library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1158,
+                        "endColumn": 64,
+                        "endOffset": 1218
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1223,
+                    "endColumn": 62,
+                    "endOffset": 1281
+                },
+                "from": {
+                    "file": "F:\\Java_Android\\Workshop_Android\\MovieStore\\library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1223,
+                        "endColumn": 62,
+                        "endOffset": 1281
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1286,
+                    "endColumn": 76,
+                    "endOffset": 1358
+                },
+                "from": {
+                    "file": "F:\\Java_Android\\Workshop_Android\\MovieStore\\library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1286,
+                        "endColumn": 76,
+                        "endOffset": 1358
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1363,
+                    "endColumn": 68,
+                    "endOffset": 1427
+                },
+                "from": {
+                    "file": "F:\\Java_Android\\Workshop_Android\\MovieStore\\library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1363,
+                        "endColumn": 68,
+                        "endOffset": 1427
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1432,
+                    "endColumn": 66,
+                    "endOffset": 1494
+                },
+                "from": {
+                    "file": "F:\\Java_Android\\Workshop_Android\\MovieStore\\library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1432,
+                        "endColumn": 66,
+                        "endOffset": 1494
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1499,
+                    "endColumn": 62,
+                    "endOffset": 1557
+                },
+                "from": {
+                    "file": "F:\\Java_Android\\Workshop_Android\\MovieStore\\library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1499,
+                        "endColumn": 62,
+                        "endOffset": 1557
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1562,
+                    "endLine": 26,
+                    "endColumn": 10,
+                    "endOffset": 1754
+                },
+                "from": {
+                    "file": "F:\\Java_Android\\Workshop_Android\\MovieStore\\library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1562,
+                        "endLine": 26,
+                        "endColumn": 10,
+                        "endOffset": 1754
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1759,
+                    "endLine": 30,
+                    "endColumn": 10,
+                    "endOffset": 1978
+                },
+                "from": {
+                    "file": "F:\\Java_Android\\Workshop_Android\\MovieStore\\library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1759,
+                        "endLine": 30,
+                        "endColumn": 10,
+                        "endOffset": 1978
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 1983,
+                    "endLine": 34,
+                    "endColumn": 10,
+                    "endOffset": 2189
+                },
+                "from": {
+                    "file": "F:\\Java_Android\\Workshop_Android\\MovieStore\\library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 1983,
+                        "endLine": 34,
+                        "endColumn": 10,
+                        "endOffset": 2189
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 2194,
+                    "endLine": 38,
+                    "endColumn": 10,
+                    "endOffset": 2392
+                },
+                "from": {
+                    "file": "F:\\Java_Android\\Workshop_Android\\MovieStore\\library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 2194,
+                        "endLine": 38,
+                        "endColumn": 10,
+                        "endOffset": 2392
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 2397,
+                    "endLine": 42,
+                    "endColumn": 10,
+                    "endOffset": 2607
+                },
+                "from": {
+                    "file": "F:\\Java_Android\\Workshop_Android\\MovieStore\\library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 2397,
+                        "endLine": 42,
+                        "endColumn": 10,
+                        "endOffset": 2607
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 2612,
+                    "endLine": 47,
+                    "endColumn": 10,
+                    "endOffset": 2861
+                },
+                "from": {
+                    "file": "F:\\Java_Android\\Workshop_Android\\MovieStore\\library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 4,
+                        "startOffset": 2612,
+                        "endLine": 47,
+                        "endColumn": 10,
+                        "endOffset": 2861
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 2866,
+                    "endLine": 51,
+                    "endColumn": 10,
+                    "endOffset": 3070
+                },
+                "from": {
+                    "file": "F:\\Java_Android\\Workshop_Android\\MovieStore\\library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 48,
+                        "startColumn": 4,
+                        "startOffset": 2866,
+                        "endLine": 51,
+                        "endColumn": 10,
+                        "endOffset": 3070
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\Hau-Do\\Desktop\\MovieStore\\library\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "C:\\Users\\Hau-Do\\Desktop\\MovieStore\\library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 57,
+                        "endOffset": 108
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endLine": 7,
+                    "endColumn": 9,
+                    "endOffset": 278
+                },
+                "from": {
+                    "file": "C:\\Users\\Hau-Do\\Desktop\\MovieStore\\library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 113,
+                        "endLine": 7,
+                        "endColumn": 9,
+                        "endOffset": 278
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 283,
+                    "endColumn": 52,
+                    "endOffset": 331
+                },
+                "from": {
+                    "file": "C:\\Users\\Hau-Do\\Desktop\\MovieStore\\library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 283,
+                        "endColumn": 52,
+                        "endOffset": 331
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 336,
+                    "endColumn": 48,
+                    "endOffset": 380
+                },
+                "from": {
+                    "file": "C:\\Users\\Hau-Do\\Desktop\\MovieStore\\library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 336,
+                        "endColumn": 48,
+                        "endOffset": 380
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 935,
+                    "endColumn": 77,
+                    "endOffset": 1008
+                },
+                "from": {
+                    "file": "C:\\Users\\Hau-Do\\Desktop\\MovieStore\\library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 935,
+                        "endColumn": 77,
+                        "endOffset": 1008
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1013,
+                    "endColumn": 75,
+                    "endOffset": 1084
+                },
+                "from": {
+                    "file": "C:\\Users\\Hau-Do\\Desktop\\MovieStore\\library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1013,
+                        "endColumn": 75,
+                        "endOffset": 1084
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1089,
+                    "endColumn": 68,
+                    "endOffset": 1153
+                },
+                "from": {
+                    "file": "C:\\Users\\Hau-Do\\Desktop\\MovieStore\\library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1089,
+                        "endColumn": 68,
+                        "endOffset": 1153
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1158,
+                    "endColumn": 64,
+                    "endOffset": 1218
+                },
+                "from": {
+                    "file": "C:\\Users\\Hau-Do\\Desktop\\MovieStore\\library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1158,
+                        "endColumn": 64,
+                        "endOffset": 1218
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1223,
+                    "endColumn": 62,
+                    "endOffset": 1281
+                },
+                "from": {
+                    "file": "C:\\Users\\Hau-Do\\Desktop\\MovieStore\\library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1223,
+                        "endColumn": 62,
+                        "endOffset": 1281
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1286,
+                    "endColumn": 76,
+                    "endOffset": 1358
+                },
+                "from": {
+                    "file": "C:\\Users\\Hau-Do\\Desktop\\MovieStore\\library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1286,
+                        "endColumn": 76,
+                        "endOffset": 1358
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1363,
+                    "endColumn": 68,
+                    "endOffset": 1427
+                },
+                "from": {
+                    "file": "C:\\Users\\Hau-Do\\Desktop\\MovieStore\\library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1363,
+                        "endColumn": 68,
+                        "endOffset": 1427
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1432,
+                    "endColumn": 66,
+                    "endOffset": 1494
+                },
+                "from": {
+                    "file": "C:\\Users\\Hau-Do\\Desktop\\MovieStore\\library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1432,
+                        "endColumn": 66,
+                        "endOffset": 1494
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1499,
+                    "endColumn": 62,
+                    "endOffset": 1557
+                },
+                "from": {
+                    "file": "C:\\Users\\Hau-Do\\Desktop\\MovieStore\\library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1499,
+                        "endColumn": 62,
+                        "endOffset": 1557
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1562,
+                    "endLine": 26,
+                    "endColumn": 10,
+                    "endOffset": 1754
+                },
+                "from": {
+                    "file": "C:\\Users\\Hau-Do\\Desktop\\MovieStore\\library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1562,
+                        "endLine": 26,
+                        "endColumn": 10,
+                        "endOffset": 1754
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1759,
+                    "endLine": 30,
+                    "endColumn": 10,
+                    "endOffset": 1978
+                },
+                "from": {
+                    "file": "C:\\Users\\Hau-Do\\Desktop\\MovieStore\\library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1759,
+                        "endLine": 30,
+                        "endColumn": 10,
+                        "endOffset": 1978
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 1983,
+                    "endLine": 34,
+                    "endColumn": 10,
+                    "endOffset": 2189
+                },
+                "from": {
+                    "file": "C:\\Users\\Hau-Do\\Desktop\\MovieStore\\library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 1983,
+                        "endLine": 34,
+                        "endColumn": 10,
+                        "endOffset": 2189
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 2194,
+                    "endLine": 38,
+                    "endColumn": 10,
+                    "endOffset": 2392
+                },
+                "from": {
+                    "file": "C:\\Users\\Hau-Do\\Desktop\\MovieStore\\library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 2194,
+                        "endLine": 38,
+                        "endColumn": 10,
+                        "endOffset": 2392
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 2397,
+                    "endLine": 42,
+                    "endColumn": 10,
+                    "endOffset": 2607
+                },
+                "from": {
+                    "file": "C:\\Users\\Hau-Do\\Desktop\\MovieStore\\library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 2397,
+                        "endLine": 42,
+                        "endColumn": 10,
+                        "endOffset": 2607
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 2612,
+                    "endLine": 47,
+                    "endColumn": 10,
+                    "endOffset": 2861
+                },
+                "from": {
+                    "file": "C:\\Users\\Hau-Do\\Desktop\\MovieStore\\library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 4,
+                        "startOffset": 2612,
+                        "endLine": 47,
+                        "endColumn": 10,
+                        "endOffset": 2861
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 2866,
+                    "endLine": 51,
+                    "endColumn": 10,
+                    "endOffset": 3070
+                },
+                "from": {
+                    "file": "C:\\Users\\Hau-Do\\Desktop\\MovieStore\\library\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 48,
+                        "startColumn": 4,
+                        "startOffset": 2866,
+                        "endLine": 51,
+                        "endColumn": 10,
+                        "endOffset": 3070
+                    }
+                }
+            }
+        ]
+    }
+]

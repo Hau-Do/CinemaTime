@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true"
+
+    android:orientation="vertical">
+
+
+    <LinearLayout
+        android:id="@+id/Fragment_nav_Linear"
+        android:layout_width="match_parent"
+        android:layout_height="260dp"
+        android:background="@drawable/walpaper"
+        android:elevation="2dp"
+        android:orientation="vertical">
+
+
+        <ImageView
+            android:id="@+id/Fragment_nav_item_ImageView"
+            android:layout_width="90dp"
+
+            android:layout_height="90dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:scaleType="fitXY" />
+
+        <TextView
+            android:id="@+id/Fragment_nav_item_textName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/Fragment_nav_item_ImageView"
+            android:layout_gravity="center"
+            android:layout_marginTop="5dp"
+            android:text="Minh Hân"
+            android:textColor="#ffffff"
+            android:textSize="@dimen/HeadLine_Regular_Text"
+            android:textStyle="bold" />
+
+        <!--</LinearLayout>-->
+
+        <LinearLayout
+
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="16dp"
+            android:layout_marginRight="16dp"
+            android:orientation="vertical">
+
+
+            <TextView
+                android:id="@+id/Fragment_nav_item_DateTime"
+
+                style="@style/Apptheme1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/Fragment_nav_item_textName"
+                android:layout_marginLeft="3dp"
+                android:drawableLeft="@drawable/ic_date_range"
+                android:drawablePadding="20dp"
+                android:text=" Date/Month/Year" />
+
+            <TextView
+                android:id="@+id/Fragment_nav_item_Email"
+                style="@style/Apptheme1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/Fragment_nav_item_textName"
+                android:layout_marginLeft="3dp"
+                android:drawableLeft="@drawable/ic_email"
+                android:drawablePadding="20dp"
+                android:text=" Email" />
+
+            <TextView
+                android:id="@+id/Fragment_nav_item_Gender"
+
+                style="@style/Apptheme1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/Fragment_nav_item_DateTime"
+                android:drawableLeft="@drawable/ic_gender_male_female_black_24dp"
+                android:drawablePadding="20dp"
+                android:text=" Nam" />
+
+            <Button
+                android:id="@+id/Fragment_nav_item_BtnEdit"
+                style="@style/Widget.AppCompat.Button.Colored"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:text="Edit" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:orientation="vertical">
+
+
+        <TextView
+            android:id="@+id/Fragment_nav_item_TxtRemind"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/Fragment_nav_item_BtnEdit"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="8dp"
+            android:text="Reminder List"
+            android:textColor="@color/colorAccent"
+            android:textSize="@dimen/HeadLine_Regular_Text"
+            android:textStyle="bold" />
+
+        <android.support.v7.widget.RecyclerView
+            android:id="@+id/view"
+            android:layout_width="match_parent"
+            android:layout_height="135dp"
+            android:layout_marginBottom="5dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:layout_marginTop="2dp"
+            android:background="@drawable/custom_view" />
+
+        <Button
+            android:id="@+id/Fragment_nav_item_BtnShow"
+            style="@style/Widget.AppCompat.Button.Colored"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="Show All"
+            android:textAllCaps="false" />
+
+
+    </LinearLayout>
+</LinearLayout>

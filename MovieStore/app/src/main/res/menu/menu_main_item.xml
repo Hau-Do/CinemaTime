@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/menu_main_item_MovieList"
+        android:title="MovieList" />
+    <item
+        android:id="@+id/menu_main_item_Favorite"
+        android:title="Favorite" />
+    <item
+        android:id="@+id/menu_main_item_Setting"
+        android:title="Setting" />
+    <item
+        android:id="@+id/menu_main_item_About"
+        android:title="About" />
+    <item
+        android:id="@+id/menu_main_item_ChangeLayout"
+        android:title="Layout"
+        android:icon="@drawable/ic_grid_on"
+        app:showAsAction="always" />
+</menu>

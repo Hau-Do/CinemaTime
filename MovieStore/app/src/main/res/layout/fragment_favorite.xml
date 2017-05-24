@@ -1,0 +1,41 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background"
+    tools:context="group6.com.cimenatime.Fragment.FavoriteFragment">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+    <EditText
+        android:layout_margin="5dp"
+        android:id="@+id/Fragment_Favorite_RecyclerView_edt"
+        android:layout_width="match_parent"
+        android:hint="Type Query to Search"
+        android:textColorHint="#ffffff"
+        android:background="@drawable/custom_edittext"
+
+
+        android:textColor="#ffffff"
+        android:inputType="text"
+        android:layout_height="wrap_content" />
+    <android.support.v4.widget.SwipeRefreshLayout
+        android:layout_below="@id/Fragment_Favorite_RecyclerView_edt"
+        android:id="@+id/Swipe_refresh_1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <android.support.v7.widget.RecyclerView
+
+            android:id="@+id/Fragment_Favorite_RecyclerView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:scrollbars="vertical"
+            />
+
+
+
+        <!-- TODO: Update blank fragment layout -->
+
+    </android.support.v4.widget.SwipeRefreshLayout>
+</RelativeLayout>

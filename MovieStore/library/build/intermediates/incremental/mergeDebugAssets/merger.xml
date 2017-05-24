@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="F:\Java_Android\Workshop_Android\MovieStore\library\src\main\assets"/><source path="F:\Java_Android\Workshop_Android\MovieStore\library\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="F:\Java_Android\Workshop_Android\MovieStore\library\src\debug\assets"/></dataSet></merger>
